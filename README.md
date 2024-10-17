@@ -1,3 +1,4 @@
+![DEMO](demo.jpg)
 
 # Python Audio Visualizer
 
@@ -80,4 +81,4 @@ All dependencies are listed in `requirements.txt` and will be installed automati
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT License.
