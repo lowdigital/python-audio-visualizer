@@ -1,0 +1,11 @@
+cffi==1.17.1
+comtypes==1.4.7
+numpy==2.0.2
+psutil==6.0.0
+pycaw==20240210
+pycparser==2.22
+pygame==2.6.1
+pypiwin32==223
+pyttsx3==2.98
+pywin32==307
+sounddevice==0.5.1
